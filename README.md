@@ -1,5 +1,8 @@
 # Conflict Zone Analytics and OSINT Tools
 
+![conflict_map](https://github.com/user-attachments/assets/ad2c1446-66de-4eb1-91c2-b9fae018de9e)
+
+
 ## Overview
 
 This repository contains a collection of Google Colab notebooks showcasing various analytics and methodologies used in the analysis of conflict zones and the identification of violent actors using open-source data and OSINT (Open Source Intelligence) tools. The analysis spans regions including Asia, Europe, and the Middle East, and leverages data from ACLED, SIPRI, GDELT, and other public sources.
@@ -10,6 +13,9 @@ This repository contains a collection of Google Colab notebooks showcasing vario
 	• Actor Identification: Notebooks in this section are dedicated to identifying key actors in various conflict zones, including the calculation of growth rates, analysis of conflict events by actor, and the use of machine learning models for prediction.
 	• Visualization: Contains all notebooks related to data visualization. These include charts, graphs, and interactive visualizations that help illustrate the findings from the analysis.
 	• OSINT Tools: Demonstrates how tools like Maltego and other OSINT platforms were used to gather and analyze open-source intelligence, identify potential threats, and map out connections between entities.
+
+![zoom_in_greece](https://github.com/user-attachments/assets/d347e56e-c40a-417e-ad99-4fd56db68a9a)
+
 
 ## Key Notebooks
 	• 01_Data_Collection_ACLED.ipynb - Extracts conflict event data using the ACLED API.
