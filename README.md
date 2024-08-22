@@ -14,15 +14,15 @@ This repository contains a collection of Google Colab notebooks showcasing vario
 	• Visualization: Contains all notebooks related to data visualization. These include charts, graphs, and interactive visualizations that help illustrate the findings from the analysis.
 	• OSINT Tools: Demonstrates how tools like Maltego and other OSINT platforms were used to gather and analyze open-source intelligence, identify potential threats, and map out connections between entities.
 
-![zoom_in_greece](https://github.com/user-attachments/assets/d347e56e-c40a-417e-ad99-4fd56db68a9a)
-
+![zoom_in_greece_v2](https://github.com/user-attachments/assets/07b5f7ba-d74c-42dd-ab65-8909d27c07a2)
 
 ## Key Notebooks
-	• 01_Data_Collection_ACLED.ipynb - Extracts conflict event data using the ACLED API.
-	• 02_SIPRI_Military_Expenditure_Analysis.ipynb - Analyzes military expenditure as a percentage of GDP for selected countries.
-	• 03_Actor_Identification_Yemen.ipynb - Identifies and analyzes key violent actors in Yemen.
-	• 04_Sentiment_Analysis_GDELT.ipynb - Applies sentiment analysis to news articles from GDELT to identify emerging threats.
-	• 05_Visualization_Greece_Conflict.ipynb - Visualizes conflict data for Greece, focusing on event types and sub-event types.
+	• ACLED Data.ipynb - Extracts conflict event data for all three regions using the ACLED API.
+ 	• GDELT - Web Scraping.ipynb - Extracts relevant URLs from GDELT for the three different regions for NLP analysis. 
+  	• Conflict Analysis - Asia.ipynb - Analyzes and identifies key violent actors in Asia and determining which country and actor to focus on.
+	• CA - Middle East NLP.ipynb - NLP analysis consisting of two parts - Sentiment Analysis to determine reflected emotion and Named Entity Recognition (NER) to extract key entities.
+	• Conflict Analysis - Combined.ipynb - Contains analytics and visualizations that showcase all three regions and the chosen three countries. 
+	• Conflict Analysis - Europe Word Cloud.ipynb - Applies word cloud visualization analysis showcasing the relevant words from the GDELT article pull and analysis. 
 
 ## Getting Started
 
